@@ -1,0 +1,11 @@
+{
+	"name": "Gino_Fratelli",
+	"version": "1.0.0",
+	"description": "Get the FUCK out!",
+	"main": "bot.js",
+	"author": "slightlyoddball",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"winston": "^3.2.1"
+	}
+}
